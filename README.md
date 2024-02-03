@@ -1,0 +1,1 @@
+This repository is meant for the people trying to solve the Python and C++ certification/practice problems. You can take reference from the provided code for respective problems and learn more with this repo.
